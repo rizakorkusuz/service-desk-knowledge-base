@@ -11,3 +11,4 @@
 | KB-0007 | Conference room display shows no picture |
 | KB-0008 | New user device setup checklist |
 | KB-0009 | Computer is slow |
+| KB-0010 | BitLocker recovery screen asks for a recovery key at startup |
