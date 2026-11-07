@@ -12,3 +12,4 @@
 | KB-0008 | New user device setup checklist |
 | KB-0009 | Computer is slow |
 | KB-0010 | BitLocker recovery screen asks for a recovery key at startup |
+| KB-0025 | Account keeps getting locked out (repeated lockouts) |
