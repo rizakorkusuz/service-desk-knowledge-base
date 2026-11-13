@@ -14,3 +14,4 @@
 | KB-0010 | BitLocker recovery screen asks for a recovery key at startup |
 | KB-0025 | Account keeps getting locked out (repeated lockouts) |
 | KB-0029 | Microsoft 365 Apps shows "Unlicensed Product" or "Product Deactivated" |
+| KB-0030 | Remote Desktop can't connect to the remote computer (Windows 11) |
