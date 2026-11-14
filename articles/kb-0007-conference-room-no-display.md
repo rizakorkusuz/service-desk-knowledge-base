@@ -26,3 +26,9 @@ The laptop screen appears on the display, and audio plays through the room speak
 
 ## If this does not work
 Open a ticket for the AV vendor or facilities with the room number, equipment model, tests done and the time of the next meeting.
+
+## See also
+
+- [KB-0004: Microsoft Teams microphone or camera not working](kb-0004-teams-mic-camera.md)
+- [KB-0003: Wi-Fi shows connected but there is no internet](kb-0003-wifi-no-internet.md)
+- [Audio-visual and conference room support](https://rizakorkusuz.com/it-support/av-and-conference-room-support/)

@@ -39,3 +39,10 @@ Escalate to the identity team with: user, verification method, lockout times, `G
 - Microsoft Learn, Prevent attacks using smart lockout: https://learn.microsoft.com/en-us/entra/identity/authentication/howto-password-smart-lockout
 - Microsoft Learn, Unlock-ADAccount: https://learn.microsoft.com/en-us/powershell/module/activedirectory/unlock-adaccount
 - Microsoft Support, Credential Manager in Windows: https://support.microsoft.com/en-us/windows/credential-manager-in-windows-1b5c916a-6a16-889f-8581-fc16e8165ac0
+
+## See also
+
+- [KB-0005: Password reset and account unlock](kb-0005-password-reset.md)
+- [KB-0030: Remote Desktop can't connect to the remote computer](kb-0030-remote-desktop-cant-connect.md)
+- [Active Directory user admin and password reset](https://rizakorkusuz.com/it-support/active-directory-user-admin/)
+- [Account keeps getting locked out (Medium)](https://medium.com/@rizakorkusuz/account-keeps-getting-locked-out-finding-the-source-in-active-directory-a-service-desk-guide-d9dcb63ee378)

@@ -25,3 +25,8 @@ The printer shows Ready and the user's document prints.
 
 ## If this does not work
 Escalate with the printer name, IP, test results (ping, test page), number of affected users and the steps tried. Secure-print or print-server problems go to the print server owner.
+
+## See also
+
+- [KB-0003: Wi-Fi shows connected but there is no internet](kb-0003-wifi-no-internet.md)
+- [Printer and peripheral troubleshooting](https://rizakorkusuz.com/it-support/printers-and-peripherals/)

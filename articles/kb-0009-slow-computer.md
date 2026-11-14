@@ -26,3 +26,9 @@ Startup time and application launch time return to normal, and Task Manager show
 
 ## If this does not work
 Escalate for a hardware check or reimage, with Task Manager screenshots, disk space and health output, and the time the slowness started.
+
+## See also
+
+- [KB-0001: Outlook search returns no or incomplete results](kb-0001-outlook-search.md)
+- [KB-0006: OneDrive is not syncing](kb-0006-onedrive-sync.md)
+- [Windows 10/11 troubleshooting](https://rizakorkusuz.com/it-support/windows-troubleshooting/)

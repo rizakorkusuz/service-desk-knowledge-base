@@ -47,3 +47,10 @@
 - Reset activation state for Microsoft 365 Apps for enterprise: https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/activation/reset-activation-state
 - Users might receive a Product Deactivated error in Microsoft 365 Office apps: https://support.microsoft.com/en-us/office/users-might-receive-a-product-deactivated-error-in-microsoft-365-office-apps-6ee29463-20bd-4fd9-afdc-caa550770f6a
 - Troubleshoot issues when activating Office from Microsoft 365: https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/activation/issue-when-activate-office-from-office-365
+
+## See also
+
+- [KB-0001: Outlook search returns no or incomplete results](kb-0001-outlook-search.md)
+- [KB-0006: OneDrive is not syncing](kb-0006-onedrive-sync.md)
+- [Microsoft 365, Outlook, Teams and OneDrive troubleshooting](https://rizakorkusuz.com/it-support/microsoft-365-troubleshooting/)
+- [Unlicensed Product in Microsoft 365 Apps (Medium)](https://medium.com/@rizakorkusuz/unlicensed-product-in-microsoft-365-apps-activation-errors-a-service-desk-guide-155e7f7ee85a)

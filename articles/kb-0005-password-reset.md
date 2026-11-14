@@ -26,3 +26,9 @@ The user signs in and is prompted to set a new password.
 
 ## If this does not work
 Escalate to the identity team with the username, the lockout source (if known) and the verification record.
+
+## See also
+
+- [KB-0025: Account keeps getting locked out](kb-0025-repeated-account-lockouts.md)
+- [KB-0010: BitLocker recovery screen asks for a recovery key](kb-0010-bitlocker-recovery-key.md)
+- [Active Directory user admin and password reset](https://rizakorkusuz.com/it-support/active-directory-user-admin/)

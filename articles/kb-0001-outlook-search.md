@@ -25,3 +25,9 @@ A search for a known recent message returns it, and Indexing Status shows 0 item
 
 ## If this does not work
 Create a new Outlook profile and test. Escalate to Tier 2 with the Outlook build, the profile test result and the indexing status.
+
+## See also
+
+- [KB-0006: OneDrive is not syncing](kb-0006-onedrive-sync.md)
+- [KB-0029: Microsoft 365 Apps shows "Unlicensed Product" or "Product Deactivated"](kb-0029-unlicensed-product-activation.md)
+- [Microsoft 365, Outlook, Teams and OneDrive troubleshooting](https://rizakorkusuz.com/it-support/microsoft-365-troubleshooting/)

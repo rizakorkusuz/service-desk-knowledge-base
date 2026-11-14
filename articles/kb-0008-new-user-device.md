@@ -27,3 +27,9 @@ The user completes sign-in and opens their key applications. The inventory shows
 
 ## If this does not work
 Escalate missing access to the application owner with the approval reference, and missing hardware to purchasing or the vendor.
+
+## See also
+
+- [KB-0005: Password reset and account unlock](kb-0005-password-reset.md)
+- [KB-0010: BitLocker recovery screen asks for a recovery key](kb-0010-bitlocker-recovery-key.md)
+- [Active Directory user admin and password reset](https://rizakorkusuz.com/it-support/active-directory-user-admin/)
