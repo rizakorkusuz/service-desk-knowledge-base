@@ -48,3 +48,9 @@ The test call plays back your recording clearly, the microphone level moves, and
 - Microsoft Support, My camera isn't working in Microsoft Teams: https://support.microsoft.com/en-us/teams/meetings/my-camera-isn-t-working-in-microsoft-teams
 - Microsoft Support, Camera doesn't work in Windows: https://support.microsoft.com/en-us/windows/hardware/camera/camera-doesn-t-work-in-windows
 - Microsoft Learn, Troubleshoot audio and video devices: https://learn.microsoft.com/en-us/training/modules/configure-troubleshoot-microsoft-teams-clients-services/4-troubleshoot-audio-video-devices
+
+## See also
+
+- [KB-0007: Conference room display shows no picture](kb-0007-conference-room-no-display.md)
+- [Microsoft 365, Outlook, Teams and OneDrive troubleshooting](https://rizakorkusuz.com/it-support/microsoft-365-troubleshooting/)
+- [Teams microphone or camera not working (Medium)](https://medium.com/@rizakorkusuz/teams-microphone-or-camera-not-working-a-service-desk-guide-for-windows-11-722553c6f522)

@@ -6,7 +6,7 @@ Sample service desk knowledge base articles written the way a Service Desk Wiki 
 
 ## Contents
 
-- `articles/`: ten sample articles (see [articles/README.md](articles/README.md))
+- `articles/`: thirteen sample articles (see [articles/README.md](articles/README.md))
 - `templates/kb-article-template.md`: the structure to copy
 - `tools/lint_articles.py`: checks for required sections and fields, at least three resolution steps, and accidental passwords
 - `tests/test_lint.py`: unit tests
@@ -34,3 +34,10 @@ The articles are generic examples written for learning. Check them against your 
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Links
+
+- [Website](https://rizakorkusuz.com)
+- [Articles](https://rizakorkusuz.com/articles/)
+- [IT support toolkit](https://rizakorkusuz.com/it-support/)
+- [Medium](https://medium.com/@rizakorkusuz)

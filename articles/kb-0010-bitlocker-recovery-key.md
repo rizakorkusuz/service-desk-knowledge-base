@@ -33,3 +33,9 @@ Before a planned firmware update, suspend protection for one restart: `manage-bd
 ## References
 - https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/recovery-process
 - https://support.microsoft.com/en-us/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6
+
+## See also
+
+- [KB-0005: Password reset and account unlock](kb-0005-password-reset.md)
+- [KB-0008: New user device setup checklist](kb-0008-new-user-device.md)
+- [The BitLocker recovery screen: a service desk routine](https://rizakorkusuz.com/articles/bitlocker-recovery-screen-service-desk/)

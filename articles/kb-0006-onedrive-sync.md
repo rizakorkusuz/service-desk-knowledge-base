@@ -25,3 +25,9 @@ The icon shows a green check, and a test file appears on the web and on another 
 
 ## If this does not work
 Escalate with the OneDrive version, the exact sync error, and the file path.
+
+## See also
+
+- [KB-0001: Outlook search returns no or incomplete results](kb-0001-outlook-search.md)
+- [KB-0029: Microsoft 365 Apps shows "Unlicensed Product" or "Product Deactivated"](kb-0029-unlicensed-product-activation.md)
+- [Microsoft 365, Outlook, Teams and OneDrive troubleshooting](https://rizakorkusuz.com/it-support/microsoft-365-troubleshooting/)
