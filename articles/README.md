@@ -15,3 +15,4 @@
 | KB-0025 | Account keeps getting locked out (repeated lockouts) |
 | KB-0029 | Microsoft 365 Apps shows "Unlicensed Product" or "Product Deactivated" |
 | KB-0030 | Remote Desktop can't connect to the remote computer (Windows 11) |
+| KB-0031 | Word, Excel or PowerPoint keeps crashing or "has stopped working" (Windows 11) |
