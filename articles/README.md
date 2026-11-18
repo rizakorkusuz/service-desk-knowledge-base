@@ -16,3 +16,4 @@
 | KB-0029 | Microsoft 365 Apps shows "Unlicensed Product" or "Product Deactivated" |
 | KB-0030 | Remote Desktop can't connect to the remote computer (Windows 11) |
 | KB-0031 | Word, Excel or PowerPoint keeps crashing or "has stopped working" (Windows 11) |
+| KB-0034 | Password expired while working remotely (VPN, SSPR and cached credentials) |
