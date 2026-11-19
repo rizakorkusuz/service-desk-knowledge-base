@@ -17,3 +17,4 @@
 | KB-0030 | Remote Desktop can't connect to the remote computer (Windows 11) |
 | KB-0031 | Word, Excel or PowerPoint keeps crashing or "has stopped working" (Windows 11) |
 | KB-0034 | Password expired while working remotely (VPN, SSPR and cached credentials) |
+| KB-0035 | Teams Meeting button missing in Outlook (classic and new Outlook) |
