@@ -19,3 +19,4 @@
 | KB-0034 | Password expired while working remotely (VPN, SSPR and cached credentials) |
 | KB-0035 | Teams Meeting button missing in Outlook (classic and new Outlook) |
 | KB-0036 | BitLocker recovery after Secure Boot certificate update (one-time prompt or recovery loop) |
+| KB-0038 | Teams status stuck on Out of Office (or Away, Offline, In a meeting) |
